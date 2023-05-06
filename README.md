@@ -1,3 +1,3 @@
 # DNA_Project
 
-### Python DB CLI Imterface
+### Python DB CLI Interface
